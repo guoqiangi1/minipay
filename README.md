@@ -1,0 +1,2 @@
+# minipay
+gamesdk-minipay
